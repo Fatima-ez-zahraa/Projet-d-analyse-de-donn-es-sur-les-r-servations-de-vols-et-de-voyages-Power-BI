@@ -24,7 +24,7 @@ The dashboards help transform raw data into interactive visual analytics for dec
 
 | Vue 1 | Vue 2 |
 |------|------|
-| ![](img_dashboard/dash_BI.png) | ![]("img_dashboard/info sur la durée.png") |
+| ![](img_dashboard/dash_BI.png) | ![](img_dashboard/info%20sur%20la%20dur%C3%A9e.png)) |
 
 ## 1️Exploratory Analysis Dashboard
 
