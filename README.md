@@ -1,4 +1,3 @@
-# Projet d'analyse de données sur les réservations de-vols et de voyages-Power-BI
 
 # Flight Booking & Travel Analysis Dashboard - Power BI
 
@@ -25,7 +24,7 @@ The dashboards help transform raw data into interactive visual analytics for dec
 
 | Vue 1 | Vue 2 |
 |------|------|
-| ![](img_dashboard/dash_BI.png) | ![](img_dashboard/info sur la durée.png) |
+| ![](img_dashboard/dash_BI.png) | ![](img_dashboard/info_sur_la_durée.png) |
 
 ## 1️Exploratory Analysis Dashboard
 
