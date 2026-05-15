@@ -26,7 +26,7 @@ The dashboards help transform raw data into interactive visual analytics for dec
 |------|------|
 | ![](img_dashboard/dash_BI.png) | ![](img_dashboard/info%20sur%20la%20dur%C3%A9e.png)) |
 
-## 1️Exploratory Analysis Dashboard
+## Exploratory Analysis Dashboard
 
 This dashboard focuses on:
 
